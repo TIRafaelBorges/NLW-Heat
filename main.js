@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'TIRafaelBorges',
-  //youtube: ,
-  //facebook: ,
-  instagram: 'ti.rafaelborges'
-  //twitter: 
+  youtube: null,
+  facebook: null,
+  instagram: 'ti.rafaelborges',
+  twitter: null 
 }
 
 function changeSocialMediaLinks() {
